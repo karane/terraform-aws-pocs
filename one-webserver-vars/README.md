@@ -1,7 +1,7 @@
-# Terraform One Web Server
+# Terraform Hello, World. One Webserver With Vars.
 
-This folder contains a "One Web Server" example of a Terraform configuration. The configuration 
-deploys a single web server with security group in an AWS.
+This folder contains a "Hello, World. One Webserver With Vars." example of a Terraform configuration. The configuration 
+deploys a single server in an AWS.
 
 ## Pre-requisites
 
