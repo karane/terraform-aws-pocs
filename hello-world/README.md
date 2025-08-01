@@ -32,13 +32,13 @@ printenv | grep AWS
 
 Deploy the code:
 
-```
+```bash
 terraform init
 terraform apply
 ```
 
 Clean up when you're done:
 
-```
+```bash
 terraform destroy
 ```
