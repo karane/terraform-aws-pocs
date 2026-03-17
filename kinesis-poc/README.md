@@ -1,6 +1,6 @@
 # kinesis-poc
 
-Demonstrates AWS Kinesis Data Streams — provisioning a stream with Terraform and producing/consuming messages with Python.
+AWS Kinesis Data Streams — provisioning a stream with Terraform and producing/consuming messages with Python.
 
 ## Pre-requisites
 

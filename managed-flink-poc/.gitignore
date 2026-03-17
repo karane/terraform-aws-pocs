@@ -1,0 +1,12 @@
+*.hcl
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Java build artifacts
+flink-job/target/
+
+# Python
+scripts/venv/
+__pycache__/
+*.pyc
