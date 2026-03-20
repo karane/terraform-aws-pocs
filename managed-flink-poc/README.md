@@ -1,4 +1,4 @@
-# managed-flink-poc
+# Managed Flink POC
 
 Demonstrates AWS Managed Service for Apache Flink — provisioning the application with Terraform, submitting a Java Flink job, and verifying enriched output with Python.
 
